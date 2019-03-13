@@ -7,7 +7,7 @@ import java.io.*;
 import javax.imageio.ImageIO;
 import javax.swing.JFrame;
 /**
- * Edits photos
+ * Edits photos hey
  *
  * @author (Jonathan Hewings, Bianca Rodriguez, Jasmine Ma, Shane Jordan)
  * @version (11/27/18)
